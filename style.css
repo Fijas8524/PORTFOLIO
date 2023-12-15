@@ -1,0 +1,14 @@
+.container-lg,.container{
+    border: 2px solid red;
+}
+.row{
+    border: 2px solid yellow;
+}
+.col,.col-1,.col-2,.col-3,.col4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-lg-4,.col-xl-4,.col-sm-4,.col-xxl-4,.col-lg-3,.col-md-3,.col-md-4{
+    border: 1px solid black;
+    background-color: lightslategrey;
+}
+.container-fluid{
+    background-color: orange;
+    height: 500px;
+}
